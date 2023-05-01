@@ -1,4 +1,4 @@
-package com.example.happybirthday
+package com.example.helloandroid
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -31,7 +31,6 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.helloandroid.R
 import com.example.helloandroid.ui.theme.HelloAndroidTheme
 
 class MainActivity : ComponentActivity() {
@@ -65,7 +64,7 @@ fun AndroidBasicApp() {
 
 @Composable
 fun IconAndName(modifier: Modifier){
-    val image = painterResource(R.drawable.android_logo);
+    val image = painterResource(R.drawable.android_logo)
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
