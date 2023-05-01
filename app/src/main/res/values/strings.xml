@@ -10,4 +10,8 @@
     <string name="third_description">A layout composable that places its children in a horizontal sequence.</string>
     <string name="fourth_title">Column composable</string>
     <string name="fourth_description">A layout composable that places its children in a vertical sequence.</string>
+    <string name="full_name">Tran Trung Hieu</string>
+    <string name="title">Android Developer Super Noob</string>
+    <string name="sodienthoai">(+84) 969302573</string>
+    <string name="email">hieu16112001@gmail.com</string>
 </resources>
